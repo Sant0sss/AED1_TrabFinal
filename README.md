@@ -1,9 +1,11 @@
 <h1>Trabalho Final AED1</h1>
 <h2>AED 1 - Trabalho Final</h2>
 
-<strong>Considerações sobre o código feito em aula: </strong>
+<strong>Sobre o desenvolvimento do código: </strong>Primeiramente o código não está funcionando, faltando uma função.
+A função em questão é a matrix_transpose.
 
-<strong>Considerações sobre o DR.Memory: </strong>
+<strong>Sobre o DR.Memory: </strong>Houve quatro erros, dois erros na matrix_create, um erro na matrix_add e um erro
+na matrix_mutiply.
 
 <h3>Link do Video Explicação: </h3>
 <blockquote><h5>Link do Video Explicação</h4>
