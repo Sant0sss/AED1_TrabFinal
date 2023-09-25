@@ -9,7 +9,7 @@ na matrix_mutiply.
 
 <h3>Link do Video Explicação: </h3>
 <blockquote><h5>Link do Video Explicação</h4>
-<a href="https://drive.google.com/drive/folders/1szPVL52HU_qa_-rfl_42Pl-2iACbu_oF?usp=sharing">Video Explicação</a></blockquote> 
+<a href="https://drive.google.com/file/d/1DhXe3oRk-4Wp7kHWgJvXF-StRtJQmVei/view?usp=sharing">Video Explicação</a></blockquote> 
 
 <h3>Informações do Aluno: </h3>
 <blockquote><h5>Nome: Arthur Ferreira dos Santos</h4>
